@@ -9,4 +9,9 @@ global using Raven.Client.Documents.Session;
 global using Ecommerce.Infrastructure.Data.Repositories;
 global using Ecommerce.Domain.Core.Interfaces.Services;
 global using Ecommerce.Domain.Services;
+global using Ecommerce.Application.Dtos;
+global using Ecommerce.Application.Interfaces;
+global using Ecommerce.Application.Mappers;
+global using Ecommerce.Application.Mappers.Interfaces;
+global using Ecommerce.Application;
 
